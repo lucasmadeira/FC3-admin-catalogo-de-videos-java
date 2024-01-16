@@ -1,0 +1,6 @@
+rootProject.name = 'fc3-admn-do-catalogo'
+include 'domain'
+include 'application'
+include 'infrastructure'
+include 'infrastructure'
+
